@@ -1,0 +1,4 @@
+2019-09-20 09:54:57.8116|INFO|Lesson1.App_Start.PreStartApp|Application PreStart
+2019-09-20 09:54:57.8276|INFO|Lesson1.MvcApplication|Application Start
+2019-09-20 09:54:57.8814|INFO|Lesson1.MvcApplication|Application Init
+2019-09-20 09:54:57.9183|INFO|Lesson1.MvcApplication|Application Init

@@ -1,0 +1,1 @@
+2019-09-20 09:13:41.1189|INFO|Lesson1.MvcApplication|Application Start
